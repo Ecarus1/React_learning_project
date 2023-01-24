@@ -1,0 +1,14 @@
+.FormFigure {
+    display: flex;
+    flex-shrink: 1;
+    margin: 0 0 10px 0;
+}
+
+.FormFigure-box {
+    /* display: flex; */
+    margin: 0 10px 10px 10px;
+}
+
+.FormFigure-input {
+    /* display: block; */
+}

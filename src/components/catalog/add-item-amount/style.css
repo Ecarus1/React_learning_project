@@ -1,0 +1,26 @@
+.AddItemAmount {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.AddItemAmount-box {
+    margin: 20px 0 0 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.AddItemAmount-btn {
+    width: 90px;
+    height: 21px;
+}
+
+.AddItemAmount-btn_ok {
+    /* background: rgb(206, 255, 214); */
+    background-color: greenyellow;
+}
+
+.AddItemAmount-btn_cancel {
+    background-color: red;
+}

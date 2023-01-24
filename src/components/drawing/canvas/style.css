@@ -1,0 +1,19 @@
+.Canvas {
+    position: relative;
+}
+
+.Canvas-some {
+    margin: 20px 0 0 0;
+    background-color: rgba(0, 255, 255, 0.308);
+    display: block;
+    width: 100%;
+}
+
+.Canvas-zoom {
+    position: absolute;
+    font-size: 14px;
+    top: 10px;
+    right: 10px;
+    font-weight: bold;
+} 
+

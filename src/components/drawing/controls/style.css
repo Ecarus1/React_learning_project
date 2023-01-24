@@ -1,0 +1,8 @@
+.CanvasControls {
+    display: flex;
+    justify-content: center;   
+}
+
+.CanvasControls-btn:not(:first-child) {
+    margin: 0 0 0 9px;
+}
